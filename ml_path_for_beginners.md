@@ -195,6 +195,7 @@ Analyze the following !
 - [ ] [Reddit](https://www.reddit.com/r/MachineLearning/)
 
 > Note : Being active in these communities will help you to stay motivated and informed about the latest AI advancements.
+
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 

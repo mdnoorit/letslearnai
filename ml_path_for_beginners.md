@@ -105,7 +105,7 @@ Analyze the following !
 ### Step 4a : Learn the algorithms which are not covered in MOOC
 
 - [ ] Naive Bayes
-- [ ] Tree Based Algorithms
+- [ ] Tree based Algorithms
   - [ ] Decision Trees
   - [ ] Bagging Algorithms like RandomForest
   - [ ] Boosting Algorithms like XGBoost, CatBoost, LightGBM, etc.,

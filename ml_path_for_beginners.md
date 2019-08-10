@@ -29,21 +29,20 @@ Analyze the following !
 
 - [ ] Watch [Python ecosystem for Data Science](https://www.youtube.com/watch?v=EBgUiuFXE3E)
 - [ ] Read [Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
-
-
-- [ ] Data Handling libraries
-  - [ ] numpy
-  - [ ] pandas
-- [ ] Data Visualization libraries
-  - [ ] matplotlib
-  - [ ] seaborn
-  - [ ] bokeh
-- [ ] Machine Learning libraries
-  - [ ] scipy
-  - [ ] scikit-learn
-- [ ] Model Deployment
-  - [ ] Flask
-  - [ ] Django
+- [ ] Python Libraries
+  - [ ] Data Handling libraries
+    - [ ] numpy
+    - [ ] pandas
+  - [ ] Data Visualization libraries
+    - [ ] matplotlib
+    - [ ] seaborn
+    - [ ] bokeh
+  - [ ] Machine Learning libraries
+    - [ ] scipy
+    - [ ] scikit-learn
+  - [ ] Model Deployment
+    - [ ] Flask
+    - [ ] Django
  
 > Note : These are just most commonly used libraries not the entire set
 

@@ -93,11 +93,11 @@ Analyze the following !
 - [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - [ ] Learn the algorithms which are not covered in MOOC
-    - [ ] Naive Bayes
-    - [ ] Tree based Algorithms
-    - [ ] Decision Trees
-      - [ ] Bagging Algorithms like RandomForest
-      - [ ] Boosting Algorithms like XGBoost, CatBoost, LightGBM, etc.,
+    - [ ] Naive bayes
+    - [ ] Tree based algorithms
+    - [ ] Decision trees
+      - [ ] Bagging algorithms like RandomForest
+      - [ ] Boosting algorithms like XGBoost, CatBoost, LightGBM, etc.,
     - [ ] KNN etc.,
 
 > Tip 1 : Do the assignments in python not in matlab or octave
@@ -121,12 +121,12 @@ Analyze the following !
 
 ### Step 4b : Machine Learning Pipeline
 
-- [ ] [Sample Pipeline](https://www.kaggle.com/pouryaayria/a-complete-ml-pipeline-tutorial-acu-86)
+- [ ] [Sample pipeline](https://www.kaggle.com/pouryaayria/a-complete-ml-pipeline-tutorial-acu-86)
 - [ ] Evaluation metrics
-    - [ ] [Regression Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
-    - [ ] [Classification Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+    - [ ] [Regression metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
+    - [ ] [Classification metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 - [ ] Hyper parameter tuning
-    - [ ] [Grid Search and Random Search](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
+    - [ ] [Grid search and Random search](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
     - [ ] [Hyperparameter tuning the Random Forest](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
     - [ ] [Bayesian Optimization](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 

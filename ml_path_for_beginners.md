@@ -146,7 +146,7 @@ Analyze the following !
 - [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
 - [ ] [fast.ai](https://course.fast.ai/)
 
-> Note: Do any one of the above courses (Detailed learning path is on progress).
+> Note: Do any one of the above courses (Detailed learning path is in progress).
 
 ## Sample/Recommended Plan
 

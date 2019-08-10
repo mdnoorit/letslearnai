@@ -224,7 +224,7 @@ Assuming 8-10 hours a week,
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 
-### :pushpin: Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources :pushpin:
+### :collision: Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources :collision:
 
 #### Learn ! Practise ! Make mistakes ! Learn from those mistakes ! Repeat !
 

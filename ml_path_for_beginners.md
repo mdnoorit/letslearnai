@@ -1,6 +1,6 @@
 # Step in to the world of Machine Learning :fire:
 
-Following is the very simple learning path for students to start with Machine learning. 
+Following is the very simple learning path designed for students to start with Machine learning. 
 
 ## Step 1 : Decide whether Machine Learning is your cup of tea ! 
 
@@ -81,7 +81,7 @@ Analyze the following !
 > Tip : It is okay to skip this step and learn the required math concepts where ever you encounter it. But I highly encourage you to go through the basics atleast (Comprehensive Guides and Khan Academy videos in this [playlist](https://www.youtube.com/watch?v=yTGEMoaWDCQ&index=18&list=PL1328115D3D8A2566)) since it will make you feel comfortable when you go through the machine learning algorithms.
 
 
-## Step 4 : Structured Machine Learning MOOC
+## Step 4 : Structured online course MOOC
 
 - [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -129,6 +129,10 @@ Analyze the following !
     - [ ] Example : [Titanic](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [ ] [Places to find datasets](#Data-Sources)
 - [ ] [Competition Platforms](#Competitions-Platforms)
+
+> Note : One can start with deep learning with one of the following courses (Detailed learning path is on progress).
+> - [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
+> - [ ] [fast.ai](https://course.fast.ai/)
 
 # Other Resources for Machine Learning
 
@@ -186,10 +190,10 @@ Analyze the following !
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 
-### Important Note : Resources/Links/Topics given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources.
+### Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources.
 
 #### Learn ! Practise ! Make mistakes ! Learn from those mistakes ! Repeat !
 
 #### Happy learning guys :thumbsup::v: !
 
-#### Connect with me [here](https://linkedin.com/in/mknoordeen) !
+Connect with me [here](https://linkedin.com/in/mknoordeen) !

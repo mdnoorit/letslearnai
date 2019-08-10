@@ -8,7 +8,7 @@ Following is the very simple learning path designed for students to start with M
 Analyze the following !
 
 - [ ] What is Artificial Intelligence (AI) and Machine Learning (ML)?
-- [ ] Impact and applications of AI/ML in various industries and how its improving human lives.
+- [ ] Impact and applications of AI/ML in various industries like Healthcare, Finance, Agriculture etc., and how it is improving human lives.
 - [ ] Skills required for AI/ML
 
 > Note : Don't let the AI craze which is happening around us let you start with Machine Learning. If you are really convinced about its impact and if you feel its your cup of tea, then go for it. Spend good time analyzing this. If Yes, move to the next step
@@ -89,6 +89,14 @@ Analyze the following !
 
 - [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+- [ ] Learn the algorithms which are not covered in MOOC
+    - [ ] Naive Bayes
+    - [ ] Tree based Algorithms
+    - [ ] Decision Trees
+      - [ ] Bagging Algorithms like RandomForest
+      - [ ] Boosting Algorithms like XGBoost, CatBoost, LightGBM, etc.,
+    - [ ] KNN etc.,
+
 > Tip 1 : Do the assignments in python not in matlab or octave
 >   - [ ] [Python Implementation of Assignments 1](https://github.com/dibgerge/ml-coursera-python-assignments)
 >   - [ ] [Python Implementation of Assignments 2](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
@@ -102,21 +110,13 @@ Analyze the following !
 
 > Tip 3 : Document and Maintain your code in a github 
 
-### Step 4a : Learn the algorithms which are not covered in MOOC
 
-- [ ] Naive Bayes
-- [ ] Tree based Algorithms
-  - [ ] Decision Trees
-  - [ ] Bagging Algorithms like RandomForest
-  - [ ] Boosting Algorithms like XGBoost, CatBoost, LightGBM, etc.,
-- [ ] KNN etc.,
-
-### Step 4b : Exploratory Data Analysis (EDA)
+### Step 4a : Exploratory Data Analysis (EDA)
 
 - [ ] [Comprehensive guide](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
 - [ ] [Python samples] (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
-### Step 4c : Machine Learning Pipeline
+### Step 4b : Machine Learning Pipeline
 
 - [ ] [Sample Pipeline](https://www.kaggle.com/pouryaayria/a-complete-ml-pipeline-tutorial-acu-86)
 - [ ] Evaluation metrics
@@ -169,7 +169,7 @@ Analyze the following !
 - [ ] [towardsdatascience](https://towardsdatascience.com)
 - [ ] [machinelearningmastery](http://machinelearningmastery.com)
 - [ ] [kdnuggets](https://www.kdnuggets.com)
-- [ ] [medium](www.medium.com)
+- [ ] [medium](https://medium.com/)
 
 ### Best Forums
 
@@ -177,7 +177,6 @@ Analyze the following !
 - [ ] [kaggle discussion](https://www.kaggle.com/discussion)
 - [ ] [dataschool](http://www.dataschool.io/)
 - [ ] [datascienceweekly](https://www.datascienceweekly.org/)
-- [ ] [datasciencecentral](https://www.datasciencecentral.com/)
 
 > Tip: Download [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en_IN) app and subscribe to all these blogs, forums and newsletters
 

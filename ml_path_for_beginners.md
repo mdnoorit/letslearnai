@@ -114,7 +114,7 @@ Analyze the following !
 ### Step 4a : Exploratory Data Analysis (EDA)
 
 - [ ] [Comprehensive guide](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
-- [ ] [Python samples] (https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+- [ ] [Python samples](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
 
 ### Step 4b : Machine Learning Pipeline
 
@@ -122,7 +122,10 @@ Analyze the following !
 - [ ] Evaluation metrics
     - [ ] [Regression Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
     - [ ] [Classification Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
-- [ ] [Hyper parameter tuning]()
+- [ ] Hyper parameter tuning
+    - [ ] [Grid Search and Random Search](https://www.datacamp.com/community/tutorials/parameter-optimization-machine-learning-models)
+    - [ ] [Hyperparameter tuning the Random Forest](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+    - [ ] [Bayesian Optimization](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 
 > Important Tip : Start learning EDA and Machine Learning pipeline parallely once you are done with Linear and Logistic regression algorithms in the MOOC
 

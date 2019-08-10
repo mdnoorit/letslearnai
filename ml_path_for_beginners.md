@@ -134,9 +134,12 @@ Analyze the following !
 - [ ] [Places to find datasets](#Data-Sources)
 - [ ] [Competition Platforms](#Competitions-Platforms)
 
-> Note : One can start with deep learning with one of the following courses (Detailed learning path is on progress).
-> - [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
-> - [ ] [fast.ai](https://course.fast.ai/)
+## Step 6 : Start with Deep learning
+
+- [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
+- [ ] [fast.ai](https://course.fast.ai/)
+
+> Note: Do any one of the above courses (Detailed learning path is on progress).
 
 # Other Resources for Machine Learning
 
@@ -160,7 +163,7 @@ Analyze the following !
 
 > Tip : Your first task here is to build a simple end to end pipeline for a given problem, submit the solution and seeing your name in the leaderboard. Then try to improve your solution iteratively which makes you move higher in the leader board and the actual learning happens here in the iteration.
 
-## Best Blogs
+### Best Blogs
 
 - [ ] [analyticsvidhya](http://analyticsvidhya.com)
 - [ ] [towardsdatascience](https://towardsdatascience.com)
@@ -195,7 +198,7 @@ Analyze the following !
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 
-### Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources.
+### [ Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources ]
 
 #### Learn ! Practise ! Make mistakes ! Learn from those mistakes ! Repeat !
 

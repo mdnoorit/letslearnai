@@ -1,4 +1,4 @@
-# Step in to the world of Machine Learning
+# Step in to the world of Machine Learning :fire:
 
 Following is the very simple learning path for students to start with Machine learning. 
 

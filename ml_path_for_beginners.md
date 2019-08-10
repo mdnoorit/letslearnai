@@ -124,7 +124,7 @@ Analyze the following !
     - [ ] [Classification Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 - [ ] [Hyper parameter tuning]()
 
-> Important Tip : Start learning about EDA and Machine Learning pipeline parallely once you are done with Linear and Logistic regression algorithms in the MOOC
+> Important Tip : Start learning EDA and Machine Learning pipeline parallely once you are done with Linear and Logistic regression algorithms in the MOOC
 
  ## Step 5 : Start solving problems with datasets.
 

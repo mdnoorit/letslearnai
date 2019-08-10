@@ -144,6 +144,25 @@ Analyze the following !
 
 > Note: Do any one of the above courses (Detailed learning path is on progress).
 
+## Sample/Recommended Plan
+
+Assuming 8-10 hours a week,
+
+|Steps     | Topics                                             | Approx Time Period    |
+|----------|----------------------------------------------------|-----------------------|
+|Step 1    | Decide whether Machine Learning is your cup of tea | Not more than a week  |
+|Step 2    | Learn and Practice Python                          | Approx 2 weeks        |
+|Step 2a   | Python for data science                            | Not more than a week  |
+|Step 3    | Refresh Essential High School mathematics          | Not more than a week  |
+|Step 4    | Structured online course MOOC + Other Algorithms   | Approx 2 months       |
+|Step 4b   | Exploratory Data Analysis (EDA)                    | Approx 2 weeks        |
+|Step 4c   | Machine Learning Pipeline Concepts                 | Approx 1 weeks        |
+|Step 5    | Start solving problems with datasets.              | Approx 2 weeks        |
+|Step 6    | Start with Deep learning                           | Approx 2/3 months     |
+
+>Tip : Personalize the above plan as per your needs.
+
+
 # Other Resources for Machine Learning
 
 ### Learning Resources

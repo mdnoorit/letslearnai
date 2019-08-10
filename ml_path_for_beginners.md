@@ -27,6 +27,10 @@ Analyze the following !
 
 ### Step 2a : Python for data science
 
+- [ ] Watch [Python ecosystem for Data Science](https://www.youtube.com/watch?v=EBgUiuFXE3E)
+- [ ] Read [Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
+
+
 - [ ] Data Handling libraries
   - [ ] numpy
   - [ ] pandas
@@ -220,7 +224,7 @@ Assuming 8-10 hours a week,
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 
-### [ Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources ]
+### :pushpin: Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources :pushpin:
 
 #### Learn ! Practise ! Make mistakes ! Learn from those mistakes ! Repeat !
 

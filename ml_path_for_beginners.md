@@ -15,9 +15,9 @@ Analyze the following !
 ## Step 2 : Learn and Practice Python
 
 - [ ] [Why Python for Machine Learning?](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
-- [ ] Set up an local [environment](https://www.anaconda.com/)
+- [ ] Set up an local [environment](https://www.anaconda.com/distribution/)
 - [ ] Experiment in [jupyter notebooks](https://www.youtube.com/watch?v=2eCHD6f_phE&feature=push-u-sub&attr_tag=8UUQYNPGPspzbSqD-6)
-- [ ] Build a simple project in python like simple atori games
+- [ ] Build a simple project in python like atori games
 - [ ] IDE : [PyCharm](https://www.jetbrains.com/pycharm/) or [VisualStudio](https://code.visualstudio.com/)
 
 > Tip : Try Jupyter notebook [extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) which is totally cool.
@@ -78,7 +78,7 @@ Analyze the following !
 - [ ] Watch [3blue1brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
 
-> Tip : It is okay to skip this step and learn the required math concepts where ever you encounter it. But I highly encourage you to go through the basics atleast (Comprehensive Guides and Khan Academy videos in this [playlist](https://www.youtube.com/watch?v=yTGEMoaWDCQ&index=18&list=PL1328115D3D8A2566)) since it will make you feel comfortable when you go through the machine learning algorithms.
+> Tip : It's okay to skip this step and learn the required math concepts where ever you encounter it. But I highly encourage you to go through the basics atleast (Comprehensive Guides and Khan Academy videos in this [playlist](https://www.youtube.com/watch?v=yTGEMoaWDCQ&index=18&list=PL1328115D3D8A2566)) since it will make you feel comfortable when you go through the machine learning algorithms.
 
 
 ## Step 4 : Structured online course MOOC
@@ -120,7 +120,7 @@ Analyze the following !
     - [ ] [Classification Metrics](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
 - [ ] [Hyper parameter tuning]()
 
-> Important Tip : Start learning about EDA and Machine Learning pipeline once you are done with Linear and Logistic regression algorithms in the MOOC
+> Important Tip : Start learning about EDA and Machine Learning pipeline parallely once you are done with Linear and Logistic regression algorithms in the MOOC
 
  ## Step 5 : Start solving problems with datasets.
 

@@ -154,9 +154,9 @@ Assuming 8-10 hours a week,
 |Steps     | Topics                                             | Approx Time Period    |
 |----------|----------------------------------------------------|-----------------------|
 |Step 1    | Decide whether Machine Learning is your cup of tea | Not more than a week  |
-|Step 2    | Learn and Practice Python                          | Approx 2 weeks        |
-|Step 2a   | Python for data science                            | Not more than a week  |
-|Step 3    | Refresh Essential High School mathematics          | Not more than a week  |
+|Step 2    | Learn and Practise Python                          | Approx 2 weeks        |
+|Step 2a   | Python for Data Science                            | Not more than a week  |
+|Step 3    | Refresh Essential High School Mathematics          | Not more than a week  |
 |Step 4    | Structured online course MOOC + Other Algorithms   | Approx 2 months       |
 |Step 4b   | Exploratory Data Analysis (EDA)                    | Approx 2 weeks        |
 |Step 4c   | Machine Learning Pipeline Concepts                 | Approx 1 weeks        |

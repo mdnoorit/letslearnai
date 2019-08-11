@@ -1,6 +1,6 @@
 # Step in to the world of Machine Learning :fire:
 
-Following is the very simple learning path designed for students to start with Machine learning. 
+Following is a very simple learning path designed for students to start with Machine learning. 
 
 
 ## Step 1 : Decide whether Machine Learning is your cup of tea ! 
@@ -8,16 +8,16 @@ Following is the very simple learning path designed for students to start with M
 Analyze the following !
 
 - [ ] What is Artificial Intelligence (AI) and Machine Learning (ML)?
-- [ ] Impact and applications of AI/ML in various industries like Healthcare, Finance, Agriculture etc., and how it is improving human lives.
+- [ ] Impact and applications of AI/ML across various industries like Healthcare, Finance, Agriculture etc., and how it's improving human lives.
 - [ ] Skills required for AI/ML
 
-> Note : Don't let the AI craze which is happening around us let you start with Machine Learning. If you are really convinced about its impact and if you feel its your cup of tea, then go for it. Spend good time analyzing this. If Yes, move to the next step
+> Note : Don't let the AI craze which is happening around us let you start with Machine Learning. If you are really convinced about it's impact and if you feel it's your cup of tea, then go for it. Spend good time in analyzing these. If Yes, move to the next step
 
 
-## Step 2 : Learn and Practice Python
+## Step 2 : Learn and Practise Python
 
 - [ ] [Why Python for Machine Learning?](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
-- [ ] Set up an local [environment](https://www.anaconda.com/distribution/)
+- [ ] Set up a local [environment](https://www.anaconda.com/distribution/)
 - [ ] Experiment in [jupyter notebooks](https://www.youtube.com/watch?v=2eCHD6f_phE&feature=push-u-sub&attr_tag=8UUQYNPGPspzbSqD-6)
 - [ ] Build a simple project in python like atori games
 - [ ] IDE : [PyCharm](https://www.jetbrains.com/pycharm/) or [VisualStudio](https://code.visualstudio.com/)
@@ -25,7 +25,7 @@ Analyze the following !
 > Tip : Try Jupyter notebook [extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231) which is totally cool.
 
 
-### Step 2a : Python for data science
+### Step 2a : Python for Data Science
 
 - [ ] Watch [Python ecosystem for Data Science](https://www.youtube.com/watch?v=EBgUiuFXE3E)
 - [ ] Read [Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
@@ -44,13 +44,13 @@ Analyze the following !
     - [ ] Flask
     - [ ] Django
  
-> Note : These are just most commonly used libraries not the entire set
+> Note : These are just the most commonly used libraries, not the entire set
 
-> [Code samples](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners), 
-> [Cheat sheets](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) 
+> [Code Samples](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners), 
+> [Cheat Sheets](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) 
 
 
-## Step 3 : Refresh Essential High School mathematics
+## Step 3 : Refresh Essential High School Mathematics
 
 ### Essential areas in Mathematics
  
@@ -59,7 +59,7 @@ Analyze the following !
 - [ ] Linear Algebra
 - [ ] Calculus
 
->Tip : Instead of going by the subjects, go by the topics which is only essential for machine learning
+>Tip : Instead of going by the subjects, go by the topics which is more essential for machine learning
 
 ### Statistics
 
@@ -88,7 +88,7 @@ Analyze the following !
 > Tip : It's okay to skip this step and learn the required math concepts where ever you encounter it. But I highly encourage you to go through the basics atleast (Comprehensive Guides and Khan Academy videos in this [playlist](https://www.youtube.com/watch?v=yTGEMoaWDCQ&index=18&list=PL1328115D3D8A2566)) since it will make you feel comfortable when you go through the machine learning algorithms.
 
 
-## Step 4 : Structured online course MOOC
+## Step 4 : Structured Online Courses - MOOC
 
 - [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
 
@@ -105,11 +105,11 @@ Analyze the following !
 >   - [ ] [Python Implementation of Assignments 2](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
 >   - [ ] [Linear Regression and Logistic Regression with explanation](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
 
-> Tip 2 : Whenever you learn an algorithm, make sure you do the following things !
->  - [ ] 1. Understand the basic intuition of how it works (without Math)
+> Tip 2 : Whenever you learn an algorithm, make sure you do the following things.
+>  - [ ] 1. Understand the basic intuition of how it works (without math)
 >  - [ ] 2. Understand the underlying mathematics (Intuition you have now will give enough confidence to crack the math)
->  - [ ] 3. Implement the algorithm from scratch in python (Atleast for very important concepts like Linear Regression, Logistic regression, Gradient descent, Neural network etc.,)
->  - [ ] 4. Solve a simple real world problem by downloading a relevant dataset. You can use Machine learning libraries in this phase
+>  - [ ] 3. Implement the algorithm from scratch in python (Atleast for very important concepts like Linear Regression, Logistic Regression, Gradient Descent, Neural Networks etc.,)
+>  - [ ] 4. Solve a simple real world problem by downloading a relevant dataset. You can use Machine Learning libraries in this phase
 
 > Tip 3 : Document and Maintain your code in a github 
 
@@ -134,13 +134,13 @@ Analyze the following !
 
  ## Step 5 : Start solving problems with datasets.
 
-- [ ] Go through solved problems as reference from githubs or kaggle kernels
+- [ ] Go through solved problems as reference from github or kaggle kernels
     - [ ] [kaggle kernels](https://www.kaggle.com/kernels)
     - [ ] Example : [Titanic](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 - [ ] [Places to find datasets](#Data-Sources)
 - [ ] [Competition Platforms](#Competitions-Platforms)
 
-## Step 6 : Start with Deep learning
+## Step 6 : Start with Deep Learning
 
 - [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
 - [ ] [fast.ai](https://course.fast.ai/)
@@ -223,7 +223,7 @@ Assuming 8-10 hours a week,
 > Tip : Build a professional profile and follow the active community members and research leaders once you sign up
 
 
-### :collision: Important Note : Topics and resources given in this document is just a drop in the ocean. Please don't restrict yourself only to those resources :collision:
+### :collision: Important Note : Topics and resources mentioned in this document is just a drop in the ocean. Please don't restrict yourself only to these resources :collision:
 
 #### Learn ! Practise ! Make mistakes ! Learn from those mistakes ! Repeat !
 

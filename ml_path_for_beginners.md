@@ -1,4 +1,4 @@
-# Step in to the world of Machine Learning :fire:
+# Step into the world of Machine Learning :fire:
 
 Following is a very simple learning path designed for students to start with Machine learning. 
 
@@ -29,7 +29,7 @@ Analyze the following !
 
 - [ ] Watch [Python ecosystem for Data Science](https://www.youtube.com/watch?v=EBgUiuFXE3E)
 - [ ] Read [Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
-- [ ] Python Libraries
+- [ ] Most commonly used libraries
   - [ ] Data Handling libraries
     - [ ] numpy
     - [ ] pandas
@@ -93,7 +93,7 @@ Analyze the following !
 - [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
 
 - [ ] Learn the algorithms which are not covered in MOOC
-    - [ ] Naive bayes
+    - [ ] Naive Bayes
     - [ ] Tree based algorithms
     - [ ] Decision trees
       - [ ] Bagging algorithms like RandomForest

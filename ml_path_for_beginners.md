@@ -17,6 +17,7 @@ Analyze the following !
 ## Step 2 : Learn and Practise Python
 
 - [ ] [Why Python for Machine Learning?](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
+- [ ] [Recommended Python Resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 - [ ] Set up a local [environment](https://www.anaconda.com/distribution/)
 - [ ] Experiment in [jupyter notebooks](https://www.youtube.com/watch?v=2eCHD6f_phE&feature=push-u-sub&attr_tag=8UUQYNPGPspzbSqD-6)
 - [ ] Build a simple project in python like atori games

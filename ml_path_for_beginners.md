@@ -47,8 +47,7 @@ Analyze the following !
  
 > Note : These are just the most commonly used libraries, not the entire set
 
-> [Code Samples](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners), 
-> [Cheat Sheets](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/) 
+> [Code Samples](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners) 
 
 
 ## Step 3 : Refresh Essential High School Mathematics
@@ -175,6 +174,10 @@ Assuming 8-10 hours a week,
  - [ ] [machine-learning-glossary](https://developers.google.com/machine-learning/glossary/)
  - [ ] [machine-learning-for-humans](https://medium.com/machine-learning-for-humans)
  - [ ] [machine-learning-101](https://medium.com/machine-learning-101)
+ 
+### Cheat Sheets
+- [ ] [datacamp cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets)
+- [ ] [top-28-cheat-sheets-for-machine-learning-data-science](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 
 ### Data Sources
 

@@ -176,6 +176,8 @@ Assuming 8-10 hours a week,
  - [ ] [machine-learning-101](https://medium.com/machine-learning-101)
  
 ### Cheat Sheets
+
+- [ ] [becominghuman.ai](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [ ] [datacamp cheatsheets](https://www.datacamp.com/community/data-science-cheatsheets)
 - [ ] [top-28-cheat-sheets-for-machine-learning-data-science](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 

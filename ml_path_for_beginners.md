@@ -14,7 +14,7 @@ Analyze the following !
 > Note : Don't let the AI craze which is happening around us let you start with Machine Learning. If you are really convinced about it's impact and if you feel it's your cup of tea, then go for it. Spend good time in analyzing these. If Yes, move to the next step
 
 
-## Step 2 : Learn and Practise Python
+## Step 2 : Learn and Practice Python
 
 - [ ] [Why Python for Machine Learning?](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
 - [ ] [Recommended Learning Resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)

@@ -157,4 +157,4 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 
 ***Feel free to give a pull request if you like to add any visualizations that I had missed.***
 
-**Connect with me [here](https://www.linkedin.com/in/mknoordeen) !**
+**I hope it helps! Connect with me [here](https://www.linkedin.com/in/mknoordeen) !**

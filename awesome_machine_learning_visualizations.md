@@ -116,7 +116,6 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 
 ### RNN/LSTM/Transformer
 
-
 - [ ] [Animated RNN and LSTM](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 - [ ] [illustrated-word2vec](http://jalammar.github.io/illustrated-word2vec/)
 - [ ] [Glove demo](https://lamyiowce.github.io/word2viz/)
@@ -143,10 +142,6 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [Reinforcement learning example 2](https://youtu.be/kopoLzvh5jY)
 - [ ] [L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
 
-## Machine learning in browser
-
-- [ ] [Teachable Machine learning](https://teachablemachine.withgoogle.com/)
-
 ## General Resources
 
 - [ ] [explorables](https://explorabl.es/math/)
@@ -157,6 +152,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [desmos](https://www.desmos.com/)
 - [ ] [geogebra](https://www.geogebra.org/materials)
 - [ ] [Collection of Interactive Machine learning examples](https://research.google.com/seedbank/)
+- [ ] [Teachable Machine learning](https://teachablemachine.withgoogle.com/)
 
 
 ***Feel free to give a pull request if you like to add any visualizations that I had missed.***

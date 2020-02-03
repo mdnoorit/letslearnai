@@ -66,12 +66,9 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [SVM with polynomial kernel visualization](https://youtu.be/3liCbRZPrZA)
 - [ ] [Find the demo at the end of this blog](http://www.cristiandima.com/basics-of-support-vector-machines/)
 
-### Decision Trees
+### Decision Trees and Tree ensembles
 
 - [ ] [Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
-
-### Bagging and boosting
-
 - [ ] [Random Forest demo](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html)
 
 ### Naive Bayes

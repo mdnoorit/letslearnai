@@ -10,7 +10,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 
 2. If you are a trainer looking for a better way to explain a concept.
 
->This is not the learning path to go in order. You can use this as a reference place to look for interactive visualization to understand or let others understand a particular concept.
+>This list is not following any order. You can use this as a reference place to look for interactive visualization to understand or let others understand a particular concept.
 
 ## Mathematics behind Machine Learning
 
@@ -103,7 +103,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [NN 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
 - [ ] [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 
-### Convolutional Neural Network
+### Convolutional Neural Networks
 
 - [ ] [CNN Visualization video](https://www.youtube.com/watch?v=f0t-OCG79-U&list=WL&index=3&t=0s)
 - [ ] [Image kernels](http://setosa.io/ev/image-kernels/)
@@ -114,7 +114,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [keras.js](https://transcranial.github.io/keras-js/#/mnist-cnn)
 - [ ] [convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 
-### RNN/LSTM/Transformer
+### Sequence Models
 
 - [ ] [Animated RNN and LSTM](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 - [ ] [illustrated-word2vec](http://jalammar.github.io/illustrated-word2vec/)

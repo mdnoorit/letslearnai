@@ -102,6 +102,8 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [Tensorflow Playground](http://playground.tensorflow.org)
 - [ ] [NN 3D Simulation](https://www.youtube.com/watch?v=3JQ3hYko51Y)
 - [ ] [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
+- [ ] [Parameter optimization](https://www.deeplearning.ai/ai-notes/optimization/)
+- [ ] [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
 
 ### Convolutional Neural Networks
 
@@ -130,6 +132,11 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 
 - [ ] [GAN Playground](https://poloclub.github.io/ganlab/)
 
+### Reinforcement Learning
+
+- [ ] [markov-chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html)
+- [ ] [Reinforcement learning example 1](https://janhuenermann.com/blog/learning-to-drive)
+- [ ] [Reinforcement learning example 2](https://youtu.be/kopoLzvh5jY)
 
 ## Other Machine Learning concepts
 
@@ -137,9 +144,6 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [gentle-visual-intro-to-data-analysis-python-pandas](http://jalammar.github.io/gentle-visual-intro-to-data-analysis-python-pandas/)
 - [ ] [visualizing-pandas-pivoting-and-reshaping](http://jalammar.github.io/visualizing-pandas-pivoting-and-reshaping/)
 - [ ] [Model tuning and the Bias-variance tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
-- [ ] [markov-chains](http://setosa.io/blog/2014/07/26/markov-chains/index.html)
-- [ ] [Reinforcement learning example 1](https://janhuenermann.com/blog/learning-to-drive)
-- [ ] [Reinforcement learning example 2](https://youtu.be/kopoLzvh5jY)
 - [ ] [L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
 
 ## General Resources

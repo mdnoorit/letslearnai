@@ -157,6 +157,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [geogebra](https://www.geogebra.org/materials)
 - [ ] [Collection of Interactive Machine learning examples](https://research.google.com/seedbank/)
 - [ ] [Teachable Machine learning](https://teachablemachine.withgoogle.com/)
+- [ ] [AI notes](https://www.deeplearning.ai/ai-notes/)
 
 
 ***Feel free to give a pull request if you like to add any visualizations that I had missed.***

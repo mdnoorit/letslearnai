@@ -37,6 +37,7 @@ Analyze the following !
   - [ ] Data Visualization libraries
     - [ ] matplotlib
     - [ ] seaborn
+    - [ ] plotly
     - [ ] bokeh
   - [ ] Machine Learning libraries
     - [ ] scipy

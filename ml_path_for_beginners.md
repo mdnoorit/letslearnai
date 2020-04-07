@@ -213,7 +213,6 @@ Assuming 8-10 hours a week,
 
 ### Best Youtube Content
 
-- [ ] [sirajraval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 - [ ] [statquest](https://www.youtube.com/user/joshstarmer/playlists)
 - [ ] [twominutepapers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [ ] [alphaopt](https://www.youtube.com/channel/UCkL2HNDjyhrT6hgWjikmQAg/videos)

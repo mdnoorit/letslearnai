@@ -115,6 +115,8 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [Maxpooling layer](https://www.youtube.com/watch?v=mW3KyFZDNIQ)
 - [ ] [keras.js](https://transcranial.github.io/keras-js/#/mnist-cnn)
 - [ ] [convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+- [ ] [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+
 
 ### Sequence Models
 

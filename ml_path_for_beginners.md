@@ -90,7 +90,7 @@ Analyze the following !
 
 ## Step 4 : Structured Online Courses - MOOC
 
-- [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning) (Update : Please wait for the [updated course](https://www.deeplearning.ai/program/machine-learning-specialization/?utm_campaign=mls-launch-2022&utm_medium=headband&utm_source=deeplearning-ai) releasing June 2022)
 
 - [ ] Learn the algorithms which are not covered in MOOC
     - [ ] Naive Bayes

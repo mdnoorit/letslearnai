@@ -90,28 +90,19 @@ Analyze the following !
 
 ## Step 4 : Structured Online Courses - MOOC
 
-- [ ] [Coursera AndrewNg Machine Learning](https://www.coursera.org/learn/machine-learning) (Update : Please wait for the [updated course](https://www.deeplearning.ai/program/machine-learning-specialization/?utm_campaign=mls-launch-2022&utm_medium=headband&utm_source=deeplearning-ai) releasing June 2022)
+- [ ] [Coursera AndrewNg Machine Learning specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 
 - [ ] Learn the algorithms which are not covered in MOOC
     - [ ] Naive Bayes
-    - [ ] Tree based algorithms
-    - [ ] Decision trees
-      - [ ] Bagging algorithms like RandomForest
-      - [ ] Boosting algorithms like XGBoost, CatBoost, LightGBM, etc.,
     - [ ] KNN etc.,
 
-> Tip 1 : Do the assignments in python not in matlab or octave
->   - [ ] [Python Implementation of Assignments 1](https://github.com/dibgerge/ml-coursera-python-assignments)
->   - [ ] [Python Implementation of Assignments 2](https://github.com/JWarmenhoven/Coursera-Machine-Learning)
->   - [ ] [Linear Regression and Logistic Regression with explanation](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
-
-> Tip 2 : Whenever you learn an algorithm, make sure you do the following things.
+> Tip 1: Whenever you learn an algorithm, make sure you do the following things.
 >  - [ ] 1. Understand the basic intuition of how it works (without math)
 >  - [ ] 2. Understand the underlying mathematics (Intuition you have now will give enough confidence to crack the math)
 >  - [ ] 3. Implement the algorithm from scratch in python (Atleast for very important concepts like Linear Regression, Logistic Regression, Gradient Descent, Neural Networks etc.,)
 >  - [ ] 4. Solve a simple real world problem by downloading a relevant dataset. You can use Machine Learning libraries in this phase
 
-> Tip 3 : Document and Maintain your code in a github 
+> Tip 2: Document and Maintain your code in a github 
 
 
 ### Step 4a : Exploratory Data Analysis (EDA)
@@ -145,7 +136,7 @@ Analyze the following !
 - [ ] [deeplearning.ai](https://www.deeplearning.ai/deep-learning-specialization/) 
 - [ ] [fast.ai](https://course.fast.ai/)
 
-> Note: Do any one of the above courses (Detailed learning path is in progress).
+> Note: Do any one of the above courses.
 
 ## Sample/Recommended Plan
 

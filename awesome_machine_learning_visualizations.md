@@ -95,6 +95,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 
 ### Neural Networks
 
+
 - [ ] [A Visual and Interactive Guide to the Basics of Neural Networks](http://jalammar.github.io/visual-interactive-guide-basics-neural-networks/)
 - [ ] [A Visual And Interactive Look at Basic Neural Network Math](http://jalammar.github.io/feedforward-neural-networks-visual-interactive/)
 - [ ] [Back Propagation Math flow](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
@@ -104,6 +105,7 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [Neural network zoo](https://www.asimovinstitute.org/neural-network-zoo/)
 - [ ] [Parameter optimization](https://www.deeplearning.ai/ai-notes/optimization/)
 - [ ] [Initializing neural networks](https://www.deeplearning.ai/ai-notes/initialization/)
+- [ ] [Neural network architecture builder](https://alexlenail.me/NN-SVG/index.html)
 
 ### Convolutional Neural Networks
 
@@ -116,6 +118,8 @@ Pictures are worth a thousand words and I feel strongly these interactive visual
 - [ ] [keras.js](https://transcranial.github.io/keras-js/#/mnist-cnn)
 - [ ] [convnet.js](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 - [ ] [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- [ ] [LeNet style architecture builder](https://alexlenail.me/NN-SVG/LeNet.html)
+- [ ] [AlexNet style architecture builder](https://alexlenail.me/NN-SVG/AlexNet.html)
 
 
 ### Sequence Models
